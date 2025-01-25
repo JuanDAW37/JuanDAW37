@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jesus-tenreiro-rodriguez-b18726b3) 
 
 ## ⚙ Portfolio:
-[![Portfolio](https://img.shields.io/badge/personal-portfolio-brighteen?style=flat-square&logo=web&logoColor=yellow&logoSize=15px&label=personal&labelColor=black&color=yellow)](https://portfolio-git-main-juan-js-projects-0d1ff69f.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/personal-portfolio-brighteen?style=for-the-badge&logo=web&logoColor=yellow&logoSize=15px&label=personal&labelColor=black&color=yellow)](https://portfolio-git-main-juan-js-projects-0d1ff69f.vercel.app/)
 
 # 💻 Stack Tecnológico:
 
@@ -31,34 +31,33 @@
 ### No relacionales:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Control de versiones:
+## Control de versiones:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Gestores de dependencias:
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-orange?style=for-the-badge&logo=composer&link=https%3A%2F%2Fgetcomposer.org%2F
-)
+## Gestores de dependencias:
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-orange?style=for-the-badge&logo=composer&link=https%3A%2F%2Fgetcomposer.org%2F)
 
-### Herramientas de virtualización:
+## Herramientas de virtualización:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-blue?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
-### Herramientas de comunicación con servicios web:
+## Herramientas de comunicación con servicios web:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ThuderClient]
+![ThuderClient](https://img.shields.io/badge/ThunderClient-%238A35DA?style=for-the-badge&labelColor=%238A35DA&link=https%3A%2F%2Fwww.thunderclient.com%2F)
 
-### Editores de código: 
+## Editores de código: 
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJidea-%238F0056?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2324A8F1?style=for-the-badge&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-%23F1901F?style=for-the-badge&logo=EclipseIDE&logoColor=white) ![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-%23A4C73B?style=for-the-badge&logo=NetBeans&logoColor=white)
 
-### Editores de imagen y diseño web:
+## Editores de imagen y diseño web:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-### Servidores web:
+## Servidores web:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-### Servidores de aplicaciones Java:
-![WildFly JBOSS]
+## Servidores de aplicaciones Java:
+![WildFly JBOSS](https://img.shields.io/badge/WildFly-%23324E5C?style=for-the-badge&labelColor=%238A35DA&link=https%3A%2F%2Fwww.wildfly.org%2F)
 
 ### Protocolos de acceso:
-![OPENLDAP]
+![OPENLDAP](https://img.shields.io/badge/OPENLDAP-%23C9C8EB?style=for-the-badge&labelColor=%23C9C8EB&link=https%3A%2F%2Fwww.openldap.org%2F)
 
 ### Protocolos de transferencia de información:
 ![REST]
