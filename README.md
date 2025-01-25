@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jesus-tenreiro-rodriguez-b18726b3) 
 
 ## ⚙ Portfolio:
- [![Portfolio](https://img.shields.io/badge/personal-portfolio-brighteen?style=flat-square&logo=web&logoColor=yellow&logoSize=15px&label=personal&labelColor=black&color=yellow)](https://portfolio-git-main-juan-js-projects-0d1ff69f.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/personal-portfolio-brighteen?style=flat-square&logo=web&logoColor=yellow&logoSize=15px&label=personal&labelColor=black&color=yellow)](https://portfolio-git-main-juan-js-projects-0d1ff69f.vercel.app/)
 
 # 💻 Stack Tecnológico:
 
@@ -19,7 +19,7 @@
 
 ## FrameWorks:
 ### Frontend:
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Ontimize Web](https://img.shields.io/badge/Ontimize%20Web-black?style=for-the-badge&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20DreamWeaver-%23450135?style=for-the-badge&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Ontimize Web](https://img.shields.io/badge/Ontimize%20Web-black?style=for-the-badge&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20DreamWeaver-%23450135?style=for-the-badge&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Backend:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Ontimize Boot](https://img.shields.io/badge/Ontimize%20Boot-black?style=for-the-badge&logoColor=white)
@@ -34,26 +34,45 @@
 ### Control de versiones:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### Gestores de dependencias:
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-orange?style=for-the-badge&logo=composer&link=https%3A%2F%2Fgetcomposer.org%2F
+)
+
 ### Herramientas de virtualización:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-blue?style=for-the-badge&logo=VirtualBox&logoColor=white)
+
+### Herramientas de comunicación con servicios web:
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ThuderClient]
 
 ### Editores de código: 
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJidea-%238F0056?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2324A8F1?style=for-the-badge&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-%23F1901F?style=for-the-badge&logo=EclipseIDE&logoColor=white) ![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-%23A4C73B?style=for-the-badge&logo=NetBeans&logoColor=white)
 
+### Editores de imagen y diseño web:
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+
+### Servidores web:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-![XML](https://img.shields.io/badge/XML-black?style=for-the-badge&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Scrum]
-![Junit]
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ThuderClient]
+### Servidores de aplicaciones Java:
+![WildFly JBOSS]
+
+### Protocolos de acceso:
+![OPENLDAP]
+
+### Protocolos de transferencia de información:
 ![REST]
 ![SOAP]
 ![WebSockets]
-![JBOSS]
-![OPENLDAP]
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)           ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)   ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+
+### Pruebas unitarias:
+![Junit]
+
+### Metodologías ágiles:
+![Scrum]  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+### Otros:
+![XML](https://img.shields.io/badge/XML-black?style=for-the-badge&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)   
 
 # 📊 Estadísticas en GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=JuanDAW37&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
