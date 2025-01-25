@@ -60,15 +60,15 @@
 ![OPENLDAP](https://img.shields.io/badge/OPENLDAP-%23C9C8EB?style=for-the-badge&labelColor=%23C9C8EB&link=https%3A%2F%2Fwww.openldap.org%2F)
 
 ### Protocolos de transferencia de información:
-![REST]
-![SOAP]
-![WebSockets]
+![REST](https://img.shields.io/badge/REST-%230D9DC3?style=for-the-badge&labelColor=%230D9DC3)
+![SOAP](https://img.shields.io/badge/SOAP-%2365B142?style=for-the-badge&labelColor=%2365B142)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23F5BF2E?style=for-the-badge&labelColor=%23F5BF2E)
 
 ### Pruebas unitarias:
-![Junit]
+![Junit](https://img.shields.io/badge/JUnit-%23CC3027?style=for-the-badge&labelColor=%23CC3027&link=https%3A%2F%2Fjunit.org%2Fjunit5%2F)
 
 ### Metodologías ágiles:
-![Scrum]  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/SCRUM-%236FC0D1?style=for-the-badge&labelColor=%236FC0D1&link=https%3A%2F%2Fwww.scrum.org%2Fcourses%2Frecommended-courses-scrum-masters%3Futm_source%3Dgoogle%26utm_medium%3Dadwords%26utm_id%3Dpsmii%26adgroup%3D%7Bgroupid%7D%26gad_source%3D1%26gclid%3DCjwKCAiAtNK8BhBBEiwA8wVt9ze_yefnCpeWmUPmK84xEhOh-oqml19ZThXQf2rcDErYaOR-8f9EexoC4CEQAvD_BwE)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Otros:
 ![XML](https://img.shields.io/badge/XML-black?style=for-the-badge&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)   
