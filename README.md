@@ -1,6 +1,10 @@
 # 💫 Sobre mí: 
-¡Hola! Me llamo Juan y soy Desarrollador Web FullStack. En Backend tengo conocimientos en los siguientes FrameWorks: (PHP) Laravel. (Java) Spring Boot, (Java) Ontimize Boot y (JavaScript) NodeJs. <br>En Frontend uso JavaScript con NodeJs y TypeScript bajo Angular. <br>También tengo conocimientos de Python.<br>Domino las tecnologías REST, SOAP y WebSockets.<br><br>Para organizar mis proyectos, uso Git y GitHub para mantener el control de mi código. También trabajo con Postman para probar API'S en tiempo real.<br><br>A día de hoy, sigo formándome, ya que el saber nunca ocupa lugar.
+💼 Me considero un profesional comprometido, con una sólida ética de trabajo y pasión por aportar valor en cada proyecto.
+🤝 Me encanta trabajar en equipo, construir relaciones de confianza y colaborar para alcanzar objetivos comunes.
+🙌 Estoy siempre dispuesto a ayudar, aportar soluciones y generar un impacto positivo en mi entorno laboral.
+📚 Creo firmemente en el aprendizaje continuo: cada experiencia es una oportunidad para crecer, adaptarme y mejorar tanto a nivel personal como profesional.
 
+Siempre en constante búsqueda de desafíos que me impulsen a seguir desarrollándome y aportar desde mis conocimientos, habilidades y actitud.
 ## 🌐 Redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jesus-tenreiro-rodriguez-b18726b3) 
 
