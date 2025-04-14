@@ -1,8 +1,8 @@
 # 💫 Sobre mí: 
 💼 Me considero un profesional comprometido, con una sólida ética de trabajo y pasión por aportar valor en cada proyecto.
-🤝 Me encanta trabajar en equipo, construir relaciones de confianza y colaborar para alcanzar objetivos comunes.
-🙌 Estoy siempre dispuesto a ayudar, aportar soluciones y generar un impacto positivo en mi entorno laboral.
-📚 Creo firmemente en el aprendizaje continuo: cada experiencia es una oportunidad para crecer, adaptarme y mejorar tanto a nivel personal como profesional.
+<br/>🤝 Me encanta trabajar en equipo, construir relaciones de confianza y colaborar para alcanzar objetivos comunes.
+<br/>🙌 Estoy siempre dispuesto a ayudar, aportar soluciones y generar un impacto positivo en mi entorno laboral.
+<br/>📚 Creo firmemente en el aprendizaje continuo: cada experiencia es una oportunidad para crecer, adaptarme y mejorar tanto a nivel personal como profesional.
 
 Siempre en constante búsqueda de desafíos que me impulsen a seguir desarrollándome y aportar desde mis conocimientos, habilidades y actitud.
 ## 🌐 Redes sociales:
