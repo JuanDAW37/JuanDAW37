@@ -1,4 +1,4 @@
-# 💫 Sobre mí: 
+# 👋 Sobre mí: 
 💼 Me considero un profesional comprometido, con una sólida ética de trabajo y pasión por aportar valor en cada proyecto.
 <br/>🤝 Me encanta trabajar en equipo, construir relaciones de confianza y colaborar para alcanzar objetivos comunes.
 <br/>🙌 Estoy siempre dispuesto a ayudar, aportar soluciones y generar un impacto positivo en mi entorno laboral.
